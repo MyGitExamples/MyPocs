@@ -1,0 +1,46 @@
+{
+  "students": {
+    "student": [
+      {
+        "name": "chandan",
+        "age": "13",
+        "rollNo": "R1"
+      },
+      {
+        "name": "Furquan",
+        "age": "15",
+        "rollNo": "R2"
+      },
+      {
+        "name": "Rohit",
+        "age": "12",
+        "rollNo": "R3"
+      },
+      {
+        "name": "Nayan",
+        "age": "13",
+        "rollNo": "R4"
+      },
+      {
+        "name": "Rohit",
+        "age": "9",
+        "rollNo": "R5"
+      },
+      {
+        "name": "Hemlat",
+        "age": "12",
+        "rollNo": "R6"
+      },
+      {
+        "name": "Tukai",
+        "age": "14",
+        "rollNo": "R7"
+      },
+      {
+        "name": "Ryan",
+        "age": "9",
+        "rollNo": "R8"
+      }
+    ]
+  }
+}
